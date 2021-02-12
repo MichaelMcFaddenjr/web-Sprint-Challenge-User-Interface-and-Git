@@ -77,7 +77,7 @@ p {
 
 /*Header Section Style*/
 .header{
-    margin-top:2%;
+    margin-top:20px;
     align-items: flex-end;
     display: flex;
     justify-content: space-between;
